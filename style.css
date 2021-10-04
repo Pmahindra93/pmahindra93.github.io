@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Pmahindra93 
-SriramRamesh
-/
-SriramRamesh.github.io
-Public
-1
-0
-7
-Code
-Issues
-Pull requests
-ZenHub
-Actions
-Projects
-Wiki
-Security
-Insights
-SriramRamesh.github.io/style.css
-@SriramRamesh
-SriramRamesh Add styles
-Latest commit 50fa369 7 days ago
- History
- 1 contributor
-132 lines (132 sloc)  2.42 KB
    
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 *{
@@ -88,7 +57,7 @@ body{
   margin-left: 5px;
   font-size: 21px;
   outline: none;
-  background: #8E49E8;
+  background:  #4267B2;
   cursor: pointer;
   border-radius: 3px;
   opacity: 0.6;
@@ -97,7 +66,7 @@ body{
 }
 .inputField button:hover,
 .footer button:hover{
-  background: #721ce3;
+  background:  #4267B2;
 }
 .inputField button.active{
   opacity: 1;
@@ -144,10 +113,10 @@ body{
 }
 .footer button{
   padding: 6px 10px;
-  border-radius: 5px;
+  border-radius: 10px;
   border: none;
   outline: none;
-  color: #4267B2;
+  color: #4bb242;
   font-weight: 400;
   font-size: 16px;
   margin-left: 5px;
