@@ -144,14 +144,14 @@ body{
 }
 .footer button{
   padding: 6px 10px;
-  border-radius: 3px;
+  border-radius: 5px;
   border: none;
   outline: none;
-  color: #fff;
+  color: #4267B2;
   font-weight: 400;
   font-size: 16px;
   margin-left: 5px;
-  background: #8E49E8;
+  background: #868686;
   cursor: pointer;
   user-select: none;
   opacity: 0.6;
@@ -162,16 +162,3 @@ body{
   opacity: 1;
   pointer-events: auto;
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading completeSign in now to use ZenHub
